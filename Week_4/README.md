@@ -37,11 +37,11 @@ In the second code file, the changes made in the model architecture are: Adding 
 
 In the third code file, the changes made are: Addition of Dropout, Changing the Optimizer from Adam to SGD and Changing the learning rate. 
 
-**Number of trainable parameters:** 15,586
+**Number of trainable parameters:** 11,530
 
-**Training Accuracy:** 99.60% 
+**Training Accuracy:** 97.30% 
 
-**Validation Accuracy:** 99.30%
+**Validation Accuracy:** 97.01%
 
 
 
