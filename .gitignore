@@ -1,1 +1,4 @@
 *.ipynb_checkpoints
+*/acllmdb
+*/glove.6B
+*.h5
