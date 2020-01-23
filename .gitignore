@@ -2,3 +2,5 @@
 aclImdb
 glove.6B
 *.h5
+*.hdf5
+*.pkl
